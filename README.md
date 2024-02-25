@@ -8,7 +8,7 @@ This is a simple web application for a stopwatch built using HTML, CSS, and Java
 - Record and display lap times.
 - User-friendly interface.
 
-## How to Use
+## Get Started
 
 1. Clone this repository to your local machine.
 2. Open the `index.html` file in your web browser.
