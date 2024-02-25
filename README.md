@@ -6,9 +6,9 @@ This is a simple web application for a stopwatch built using HTML, CSS, and Java
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Project_Images](#project_images)
 - [Installation](#installation)
-- [Usage](#usage)
+- [Files_Included](#files_included)
+- [Project_Images](#project_images)
 - [Contributing](#contributing)
 - [Author](#author)
 
@@ -22,7 +22,7 @@ This project contains the source code for a stopwatch web application. It offers
 - Record and display lap times.
 - User-friendly interface.
 
-## Get Started
+## Installation
 
 1. Clone this repository to your local machine.
 2. Navigate to the `PRODIGY_WD_02` folder.
@@ -31,13 +31,13 @@ This project contains the source code for a stopwatch web application. It offers
 5. Click the "Lap" button to record lap times.
 6. Click the "Reset" button to reset the stopwatch and clear lap times.
 
-## Files Included
+## Files_Included
 
 - `index.html`: HTML file containing the structure of the web application.
 - `style.css`: CSS file containing styles for the web application.
 - `script.js`: JavaScript file containing functionality for the stopwatch.
 
-## Project Images
+## Project_Images
 
 ![Project Image - Start](./resources/start.png)
 ![Project Image - Lap 1](./resources/lap1.png)
