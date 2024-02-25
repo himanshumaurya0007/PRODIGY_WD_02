@@ -11,10 +11,11 @@ This is a simple web application for a stopwatch built using HTML, CSS, and Java
 ## Get Started
 
 1. Clone this repository to your local machine.
-2. Open the `index.html` file in your web browser.
-3. Click the "Start" button to begin the stopwatch.
-4. Click the "Lap" button to record lap times.
-5. Click the "Reset" button to reset the stopwatch and clear lap times.
+2. Navigate to the `PRODIGY_WD_02` folder.
+3. Open the `index.html` file in your web browser.
+4. Click the "Start" button to begin the stopwatch.
+5. Click the "Lap" button to record lap times.
+6. Click the "Reset" button to reset the stopwatch and clear lap times.
 
 ## Files Included
 
